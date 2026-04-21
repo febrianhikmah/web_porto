@@ -118,7 +118,7 @@ with right:
         {
             "title": "Data Pipeline StreamCart Real-Time E-Commerce",
             "desc": """StreamCart adalah simulasi pipeline data real-time yang mengintegrasikan Apache Kafka dan Python untuk mengelola 
-            transaksi e-commerce secara efisien. Proyek ini mentransformasi data mentah ke dalam PostgreSQL dengan arsitektur Star Schema, 
+            transaksi e-commerce secara efisien. Proyek ini mentransformasi data mentah ke dalam PostgreSQL sebagai database, 
             menghasilkan sistem penyimpanan yang terstruktur dan optimal untuk kebutuhan analitik bisnis yang cepat dan akurat.""",
             "tags": ["Event Streaming", "Apache Kafka", "ETL", "Python", "PostgreSQL"],
             "doc": "https://github.com/febrianhikmah/StreamCart_Real-Time_E-Commerce_Transactions_Data_Pipeline"
@@ -126,8 +126,8 @@ with right:
         {
             "title": "Data Pipeline End-to-End YouTube Comment",
             "desc": """YouTube Comment Pipeline adalah proyek end-to-end yang mengotomatisasi pengambilan data komentar dari 
-            YouTube API untuk diolah secara real-time. Menggunakan Apache Kafka sebagai tulang punggung streaming-nya, data kemudian diproses dan 
-            disimpan ke dalam PostgreSQL dengan skema yang terstruktur.""",
+            YouTube API untuk diolah secara real-time. Menggunakan proses ETL sebagai proses penunjangnya, data kemudian diproses dan 
+            disimpan ke dalam PostgreSQL dengan skema stars skema yang terstruktur.""",
             "tags": ["YouTube API", "ETL", "Python", "PostgreSQL", "Streamlit"],
             "doc": "https://github.com/febrianhikmah/DATA_PIPELINE_YOUTUBE_COMMENT_-END-TO-END-"
         }
