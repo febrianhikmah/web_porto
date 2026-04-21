@@ -126,7 +126,7 @@ with right:
         {
             "title": "Data Pipeline End-to-End YouTube Comment",
             "desc": """YouTube Comment Pipeline adalah proyek end-to-end yang mengotomatisasi pengambilan data komentar dari 
-            YouTube API untuk diolah secara real-time. Menggunakan proses ETL sebagai proses penunjangnya, data kemudian diproses dan 
+            YouTube API untuk diolah secara real-time. Menggunakan aplikasi web streamlit sederhana serta proses ETL sebagai proses penunjangnya, data kemudian diproses dan 
             disimpan ke dalam PostgreSQL dengan skema stars skema yang terstruktur.""",
             "tags": ["YouTube API", "ETL", "Python", "PostgreSQL", "Streamlit"],
             "doc": "https://github.com/febrianhikmah/DATA_PIPELINE_YOUTUBE_COMMENT_-END-TO-END-"
