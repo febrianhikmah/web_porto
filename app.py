@@ -130,6 +130,15 @@ with right:
             disimpan ke dalam PostgreSQL dengan skema stars skema yang terstruktur.""",
             "tags": ["YouTube API", "ETL", "Python", "PostgreSQL", "Streamlit"],
             "doc": "https://github.com/febrianhikmah/DATA_PIPELINE_YOUTUBE_COMMENT_-END-TO-END-"
+        },
+        {
+            "title": "Real-time MBanking User Activity & Transaction Monitoring Pipeline",
+            "desc": """Real-Time MBanking User Activity & Transaction Monitoring Pipeline adalah proyek end-to-end untuk mensimulasikan, 
+            mengalirkan, menyimpan, dan menganalisis aktivitas pengguna mobile banking secara real-time. Pipeline ini menggunakan Python, 
+            Apache Kafka, PostgreSQL, Apache Airflow, SQL, dan Docker untuk memonitor transaksi, login, suspicious activity, serta fraud 
+            signal sederhana.""",
+            "tags": ["Apache Kafka","Apache Airflow","PostgreSQL","Python", "SQL","Docker"],
+            "doc": "https://github.com/febrianhikmah/REAL-TIME-MBANKING-USER-ACTIVITY-TRANSACTION-MONITORING-PIPELINE"
         }
     ]
 
